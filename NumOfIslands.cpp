@@ -24,5 +24,5 @@ void dfs(vector<vector<char>>& M, int n, int m, int i, int j){
                 }
             }
         }
-        return cnt;
+        return cnt;;
     }
